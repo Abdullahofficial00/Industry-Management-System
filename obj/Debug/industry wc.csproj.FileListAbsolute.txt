@@ -1,0 +1,7 @@
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\obj\Debug\industry wc.csproj.AssemblyReference.cache
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\obj\Debug\industry wc.csproj.CoreCompileInputs.cache
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\bin\Debug\industry wc.exe.config
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\bin\Debug\industry wc.exe
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\bin\Debug\industry wc.pdb
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\obj\Debug\industry wc.exe
+D:\UET\SUMMER\INDUTRY\with tired class\industry wc\obj\Debug\industry wc.pdb
